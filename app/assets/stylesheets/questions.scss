@@ -1,0 +1,35 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+body {
+  font-family: Roboto;
+  text-indent: 10px;
+
+}
+.player {
+  border-left: 5px solid #F0F0F0;
+  padding: 10px;
+  margin: 10px;
+}
+.coach {
+  background: #FFFFE1;
+  border-left: 5px solid #F0F0F0;
+  padding: 10px;
+  margin: 10px;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.footer{
+  text-decoration: none;
+}
+
+form {
+  padding: 10px;
+}
